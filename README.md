@@ -1,2 +1,2 @@
-# pets-go-script
-pets go script
+# Pets go script - Auto farm script - Pets go roblox
+New tested and free scripts on PETS GO from the world of Roblox are available for download from this page. Only the best scripts and hacks for Pets Go Roblox. Using these scripts you will be able to activate the following features: Auto Farm, Auto Roll Pet, Inf Coins, Auto Collect, Auto Teleport, Auto Eat Fruits and many other additional features that will make your game more pleasant and convenient.
